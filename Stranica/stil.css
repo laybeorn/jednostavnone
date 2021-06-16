@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image: url("Pozadina/yep.jpg");
+}
+
+p {
+	color: blue;
+	font-family: sans-serif;
+	font-size: 18px;
+	line-height: 20px;
+	width: 800px;
+	background-color: lavender;
+	padding: 20px;
+}
+h2 {
+	color: purple;
+	background-color: grey;
+	width: 820px;
+	padding: 10px;
+}
+a:link {
+	color: black;
+	background-color: plum;
+	padding: 5px;
+	line-height: 35px;
+}
+a:hover {
+	background-color: limegreen;
+}
+img {
+	height: 400px;
+}
+h1 {
+	color: purple;
+	background-color: black;
+	width: 820px;
+	padding: 10px;	
+}
+h3 {
+	color: purple;
+	background-color: silver;
+	width: 820px;
+	padding: 10px;
+}
